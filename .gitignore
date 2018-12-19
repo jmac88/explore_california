@@ -8,3 +8,5 @@ assets/photoshop/
 assets/videos/
 !assets/videos/tour_*.mp4
 tempfile1.txt
+.bashrc
+.gitignore
